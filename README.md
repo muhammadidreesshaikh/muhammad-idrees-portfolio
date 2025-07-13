@@ -13,4 +13,7 @@ nvm install 20
 nvm use 20
 npm cache clean --force
 
+# Bootstrap 5 install
+https://react-bootstrap.netlify.app/docs/getting-started/introduction
+
 
