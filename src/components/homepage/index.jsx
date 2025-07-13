@@ -5,12 +5,10 @@ const Home = () => {
     <div>
       {/* main-heading */}
       <div className="main-heading">
-        <div className="container-fluid">
+        <div className="container">
           <div className="row">
             <div className="col-12">
-              <h1>
-                HORIZON <span>STUDIO</span>
-              </h1>
+              <h1>Muhammad Idrees Portfolio</h1>
               <p>LOS ANGELES,CA.</p>
             </div>
           </div>

@@ -4,27 +4,27 @@ import '../assets/scss/header.scss';
 
 const Header = () => {
 
-//   const [toggleMenu, SetToggleMenu] = useState(false);
+  const [toggleMenu, SetToggleMenu] = useState(false);
 
-//   const toggle = () => {
-//     SetToggleMenu(!toggleMenu);
-//   }
+  const toggle = () => {
+    SetToggleMenu(!toggleMenu);
+  }
 
   return (
     <div>
       <div className="top-bar">
-        {/* <div className="toggleMenu" onClick={() => toggle()}>
+        <div className="toggleMenu" onClick={() => toggle()}>
 
             <div className="bar1"></div>
             <div className="bar2"></div>
             <div className="bar3"></div>
-        </div> */}
+        </div>
 
         <div className="container">
             <div className="row">
               <div className="col-12 col-md-4 col-lg-3">
                   <div className="logo">
-                      <a href="/homepage">Horizon Studio</a>
+                      <a href="/homepage">Muhammad Idrees Portfolio</a>
                   </div>
               </div>
 
