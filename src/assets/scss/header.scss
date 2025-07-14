@@ -1,13 +1,12 @@
 .top-bar {
-	background-color: black;
+	background-color: var(--color-black);
 	padding: 10px 0;
 	box-shadow: 0 5px 15px 0 rgb(0 0 0 / 5%);
 	.logo {
 		padding-top: 6px;
 		a {
-			color: white;
+			color: var(--color-white);
 			font-size: 19px;
-			font-weight: 600;
 		}
 	}
 	.nav-bar {
@@ -21,13 +20,13 @@
 		}
 		li {
 			a {
-				color: white;
+				color: var(--color-white);
 				font-size: 15px;
 				padding: 0 15px;
 				&:hover {
 					transition: 0.5s;
 					opacity: 0.5s;
-					color: orange;
+					color: var(--color-orange);
 				}
 			}
 		}

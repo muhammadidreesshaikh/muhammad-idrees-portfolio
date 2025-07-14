@@ -8,6 +8,15 @@ body {
   background: #fff;
 }
 
+:root {
+  --color-red: #d51d30;
+  --color-orange: #ffa500;
+  --color-black: #020202;
+  --color-light-black: #333333;
+  --color-gry: #b1b1b1;
+  --color-white: #ffff;
+}
+
 // extra margin styling
 p {
 	margin: 0 !important;

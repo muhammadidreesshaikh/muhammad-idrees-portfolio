@@ -24,7 +24,7 @@ const Header = () => {
             <div className="row">
               <div className="col-12 col-md-4 col-lg-3">
                   <div className="logo">
-                      <a href="/homepage">Muhammad Idrees Portfolio</a>
+                      <a href="/homepage">Muhammad Idrees</a>
                   </div>
               </div>
 

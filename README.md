@@ -17,3 +17,6 @@ npm cache clean --force
 https://react-bootstrap.netlify.app/docs/getting-started/introduction
 
 
+
+# React Type Animation
+https://react-type-animation.netlify.app/examples
